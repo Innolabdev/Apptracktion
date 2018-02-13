@@ -1,0 +1,11 @@
+framework module Apptracktion {
+  umbrella header "Apptracktion.h"
+
+  export *
+  module * { export * }
+}
+
+module Apptracktion.Swift {
+    header "Apptracktion-Swift.h"
+    requires objc
+}
