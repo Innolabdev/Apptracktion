@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'Apptracktion'
-    s.version           = '0.0.2'
+    s.version           = '0.0.4'
     s.summary           = 'Apptracktion collects all the analytical data from the advertising commodities and communication channels for mobile applications.'
     s.homepage          = 'http://www.apptracktion.com/'
 
